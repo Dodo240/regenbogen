@@ -1,2 +1,4 @@
-# regenbogen
-Ein Regenbogen Gedicht.
+Die Farben des Regenbogens
+-gelb
+-rot
+-violett
